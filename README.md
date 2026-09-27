@@ -12,8 +12,8 @@ Repository used for storing translated chapters.
 > Progress: 4 Chapters + Short Stories
 
 ### End Blue
-> Status: In Progress
-> Progress: 2 Chapters
+> Status: Completed  
+> Progress: 4 Chapters + Short Stories
 
 ---
 
@@ -24,6 +24,10 @@ Repository used for storing translated chapters.
 - **May 11, 2026**
   - Chapter 1 translated
   - Chapter 2 translated
+
+- **September 27, 2026**
+  - Chapter 3 translated
+  - Chapter 4 translated
 
 ---
 
